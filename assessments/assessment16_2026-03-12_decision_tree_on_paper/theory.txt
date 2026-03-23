@@ -1,0 +1,28 @@
+Assignment: Decision Tree on Paper (12/03/2026)
+
+Decision Tree: Should I Play Outside?
+
+                    Weather
+                  /    |     \
+              Sunny   Rainy  Cloudy
+               /        |        \
+         Homework?      No    Temperature
+          /     \              /       \
+        Yes      No          Hot      Cool
+         |        |           |         |
+        No       Yes          No        Yes
+
+
+Explanation:
+- First condition: Weather
+    - Rainy → Do NOT play
+    - Sunny → Check Homework
+        - Homework = Yes → Do NOT play
+        - Homework = No  → PLAY
+    - Cloudy → Check Temperature
+        - Hot  → Do NOT play
+        - Cool → PLAY
+
+Conclusion:
+A decision tree helps make decisions step-by-step using
+conditions. Used in ML for classification and prediction.

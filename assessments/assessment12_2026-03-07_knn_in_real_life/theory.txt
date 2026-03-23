@@ -1,0 +1,22 @@
+Assignment: KNN in Real Life (07/03/2026)
+
+Netflix-like Recommendation using KNN:
+- KNN finds K most similar users (nearest neighbors).
+- Recommends movies liked by neighbors but not yet seen
+  by the current user.
+
+Example:
+  User1 and User2 both liked Action & Sci-Fi movies.
+  If User2 watches a new Action movie, it gets recommended
+  to User1.
+
+Rating Table:
+| User  | Action | Comedy | Drama |
+|-------|--------|--------|-------|
+| User1 |   5    |   2    |   1   |
+| User2 |   4    |   3    |   1   |
+| User3 |   1    |   5    |   4   |
+
+Conclusion:
+KNN is used in movie/music streaming, online shopping,
+and content filtering systems.

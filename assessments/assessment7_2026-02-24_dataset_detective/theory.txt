@@ -1,0 +1,17 @@
+Assignment: Dataset Detective (24/02/2026)
+
+Explanation:
+- read_csv()        → Loads dataset into DataFrame
+- head()            → Displays first 5 rows
+- max() + idxmax()  → Finds column with highest maximum value
+- isnull().sum()    → Counts missing values
+- describe()        → Shows mean, std, min, max etc.
+
+5 Insights:
+1. The dataset contains both numerical and categorical features.
+2. The column with the highest value indicates the largest
+   recorded observation in the dataset.
+3. Some columns contain missing values requiring data cleaning.
+4. Mean and median comparison helps identify skewness in data.
+5. High standard deviation in certain columns suggests
+   large variability.

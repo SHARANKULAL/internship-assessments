@@ -1,0 +1,14 @@
+Assignment: Storytelling with Graphs (28/02/2026)
+
+Data Story:
+The visualizations show the distribution of marks across
+different subjects.
+
+- Bar Chart: Computer and Science have the highest scores;
+  History has the lowest performance.
+
+- Pie Chart: A larger percentage of total marks comes from
+  Computer and Science subjects.
+
+- Histogram: Most marks fall between 75 and 95, indicating
+  generally good academic performance with few low scores.

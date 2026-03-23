@@ -1,0 +1,21 @@
+course_id,course_title,category,instructor_id,duration_hours,start_date,end_date,status,price
+CRS0001,Course in Marketing - Level 1,Web Dev,I002,96,2022-03-11,2022-06-09,published,2077.98
+CRS0002,Course in Marketing - Level 1,Marketing,I010,25,2022-03-25,2022-08-09,Draft,6252.05
+CRS0003,Course in Marketing - Level 2,Business,I004,105,2022-11-18,2023-02-17,published,4561.07
+CRS0004,Course in Cloud - Level 3,Business,I008,60,2022-03-16,2022-04-17,published,6589.43
+CRS0005,,Data Science,I009,47,2022-09-29,2022-12-01,published,8926.78
+CRS0006,Course in Web Dev - Level 2,Business,I003,76,2022-11-06,2023-04-20,Published,7009.77
+CRS0007,Course in Marketing - Level 2,Cloud,I002,37,2022-09-28,2022-11-26,Published,7680.75
+CRS0008,Course in Web Dev - Level 2,Business,I010,-5,2022-12-18,2023-03-10,Draft,6707.14
+CRS0009,Course in Business - Level 3,Design,I005,26,2022-04-05,2022-08-21,published,1395.78
+CRS0010,Course in Business - Level 1,Cloud,I005,40,2023-03-29,2023-09-16,Draft,4848.18
+CRS0011,Course in Data Science - Level 1,Data Science,I003,89,2022-02-06,2021-01-01,Draft,5971.73
+CRS0012,Course in Design - Level 1,Data Science,I005,66,2022-02-10,2022-06-11,Published,7137.6
+CRS0013,Course in Cloud - Level 1,Business,I009,72,2022-06-08,2022-09-06,Published,9784.85
+CRS0014,Course in Web Dev - Level 2,Data Science,,114,2022-12-07,2023-04-21,Draft,8775.58
+CRS0015,Course in Web Dev - Level 2,Web Dev,I002,68,2022-02-09,2022-07-09,Published,2795.16
+CRS0016,Course in Design - Level 2,Business,I004,48,2022-01-25,2022-04-14,published,3953.36
+CRS0017,Course in Data Science - Level 2,Business,I009,71,2022-12-06,2023-01-12,Published,-100
+CRS0018,Course in Business - Level 1,Marketing,I005,24,2022-04-22,2022-09-10,published,7555.91
+CRS0019,Course in Business - Level 2,Marketing,I009,34,2023-01-30,2023-07-26,publihsed,3291.5
+CRS0020,Course in Cloud - Level 2,Data Science,I009,0,2022-07-21,2022-11-21,published,1628.76

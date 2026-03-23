@@ -1,0 +1,12 @@
+Assignment: House Price Predictor (09/03/2026)
+
+Explanation:
+1. Dataset contains house size (sqft) and price.
+2. Size_sqft is the feature (input); Price is the label (output).
+3. Linear Regression learns the relationship between size and price.
+4. Trained model predicts prices for known data.
+5. New house size (1100 sqft) is given to estimate price.
+
+Result:
+As house size increases, price also increases — showing a
+positive linear relationship.

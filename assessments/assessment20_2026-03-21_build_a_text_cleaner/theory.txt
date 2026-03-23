@@ -1,0 +1,17 @@
+Assignment: Build a Text Cleaner (21/03/2026)
+
+What This Code Does:
+1. Converts text to lowercase
+2. Removes punctuation marks using str.maketrans
+3. Splits sentence into words
+4. Removes stopwords from a predefined list
+5. Joins filtered words back into a sentence
+
+Example Output:
+  Original: Hello!!! This is a Simple TEXT cleaning program.
+  Cleaned : hello simple text cleaning program
+
+Why This Matters:
+Text cleaning is a fundamental step in NLP preprocessing
+pipelines. Clean text improves ML model training quality
+and reduces noise in feature extraction.

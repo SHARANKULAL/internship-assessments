@@ -1,0 +1,30 @@
+Assignment: ML Idea Generator (02/03/2026)
+
+ML Problems and Input → Output Descriptions:
+
+College:
+1. Student Performance Prediction
+   Input  → Attendance, study hours, previous marks, assignments
+   Output → Predicted final exam score or pass/fail result
+
+2. Attendance Monitoring System
+   Input  → Classroom images or face data
+   Output → Automatic attendance list
+
+Healthcare:
+3. Disease Prediction System
+   Input  → Patient symptoms, age, medical history, test results
+   Output → Predicted disease risk or diagnosis
+
+4. Heart Attack Risk Prediction
+   Input  → Blood pressure, cholesterol, ECG, age, lifestyle
+   Output → Probability of heart attack risk
+
+Shopping:
+5. Product Recommendation System
+   Input  → Browsing history, purchase history, ratings
+   Output → Personalized product recommendations
+
+6. Price Prediction System
+   Input  → Product category, brand, demand, past prices
+   Output → Predicted optimal product price
