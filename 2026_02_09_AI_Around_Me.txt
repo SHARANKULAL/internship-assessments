@@ -1,0 +1,10 @@
+1. Google Maps – Predicts traffic using past + real-time data.
+2. YouTube – Recommends videos based on user behavior.
+3. Instagram – Feed based on engagement.
+4. Amazon – Product recommendations.
+5. Gmail – Spam filtering.
+6. Netflix – Movie suggestions.
+7. Alexa – Speech recognition.
+8. Google Search – Ranking results.
+9. Swiggy/Zomato – Delivery prediction.
+10. Face Unlock – Facial recognition.

@@ -1,0 +1,9 @@
+Example sentence:
+“Heyyy!!! I luv this 😂🔥”
+
+Slang: luv
+Emoji: 😂🔥
+Typos: Heyyy
+
+Preprocessing needed:
+lowercase, remove emoji, correct spelling

@@ -1,0 +1,6 @@
+Example logic:
+
+If weather = sunny → play
+If rainy → no play
+
+(Tree diagram can be drawn manually)

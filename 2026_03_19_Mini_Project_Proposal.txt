@@ -1,0 +1,6 @@
+Title: Student Performance Predictor
+
+Problem: Predict marks
+Dataset: Study hours dataset
+Algorithm: Linear Regression
+Output: Predicted marks

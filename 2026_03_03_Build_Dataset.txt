@@ -1,0 +1,5 @@
+Study Hours vs Marks
+
+Feature: Study Hours
+Label: Marks
+Relation: More study → higher marks

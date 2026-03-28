@@ -1,0 +1,4 @@
+Netflix recommends movies by finding similar users.
+
+Example:
+User A likes Action, User B similar → recommend same movies
