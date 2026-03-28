@@ -15,4 +15,4 @@ This repository contains my AI & ML assignments completed as part of my learning
 - NLP & Text Processing
 
 ## Author
-Syed Zeeshan Ahmed
+Sharan
